@@ -1,0 +1,6 @@
+{
+  "name": "Encuesta en Vivo: ¿En qué clase te trabaste más?",
+  "description": "Encuesta interactiva en tiempo real para clases en vivo con gráficos dinámicos y control de votos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
